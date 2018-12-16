@@ -56,9 +56,13 @@ body {
  .portfolio-images {
     float: left;
     width: 30%;
-    height: 30%;
-    margin-right: 2%;
-    margin-bottom: 2%;
+    height: 33%;
+    margin-right: 3%;
+    margin-bottom: 3%; 
+  }
+  .portfolio-container {
+      margin: auto;    
+      background-color: orange;  
   }
  footer {
     border-top: 5px solid #cccccc;
